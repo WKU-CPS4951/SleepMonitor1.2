@@ -5,9 +5,9 @@ The QR code only works when Raspberry open
 ![](https://github.com/WKU-CPS4951/SleepMonitor1.2/blob/main/link.png)
 ## Android
 Respository: https://github.com/WKU-CPS4951/SleepMonitor1.2Android
-UI updates Activity has been removed to be Fragments
-Language Setting has been implemented
-White Noise has been implemented to help sleep
+1. UI updates Activity has been removed to be Fragments
+2. Language Setting has been implemented
+3. White Noise has been implemented to help sleep
 ## Python
 Fetch Data from Bluetooth
 ## Hardware
