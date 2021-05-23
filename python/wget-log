@@ -1,0 +1,13 @@
+Will not apply HSTS. The HSTS database must be a regular and non-world-writable file.
+ERROR: could not open HSTS store at '/home/pi/.wget-hsts'. HSTS will be disabled.
+--2021-04-07 16:34:15--  https://bone-doc-assets.oss-cn-shanghai.aliyuncs.com/studio-demo/code.zip?spm=a2c4g.11186623.2.8.1a32c6abRJbhOb
+Resolving bone-doc-assets.oss-cn-shanghai.aliyuncs.com (bone-doc-assets.oss-cn-shanghai.aliyuncs.com)... 106.14.228.173
+Connecting to bone-doc-assets.oss-cn-shanghai.aliyuncs.com (bone-doc-assets.oss-cn-shanghai.aliyuncs.com)|106.14.228.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4569 (4.5K) [application/zip]
+Saving to: ‘code.zip?spm=a2c4g.11186623.2.8.1a32c6abRJbhOb’
+
+          code.zip?   0%[                    ]       0  --.-KB/s               code.zip?spm=a2c4g. 100%[===================>]   4.46K  --.-KB/s    in 0.001s  
+
+2021-04-07 16:34:16 (3.03 MB/s) - ‘code.zip?spm=a2c4g.11186623.2.8.1a32c6abRJbhOb’ saved [4569/4569]
+
